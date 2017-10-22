@@ -13,7 +13,7 @@
 
 想研究支付宝、微信支付、邮件发送、短信通知验证码发送、oss云存储、融云即时通讯、友盟推送、Memcached缓存 
 
-![image](http://github.com/blog/raw/master/demo.jpg)  
+![image](http://github.com/HannibalKB/Blog/raw/master/demo.jpg)  
 
 ## 使用说明
 1. 请将项目内的所有文件直接放在根目录下；不要多层目录；  
